@@ -1,3 +1,6 @@
 # hello_world
-my first repository 
-i this is starting to know about computers
+print('hello world')
+x=1
+y=2
+z=x+y
+print('sum' z)
